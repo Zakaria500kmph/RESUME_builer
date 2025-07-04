@@ -18,6 +18,10 @@ An AI-powered resume builder that uses **Google Gemini** to generate a complete,
 
 ![Resume Builder UI](assets/front-end_sample.PNG)
 
+## Output
+![Resume Builder UI](assets/Output_pdf.PNG)
+![Resume Builder UI](assets/Output_sample.PNG)
+![Resume Builder UI](assets/Output_sample_2.PNG)
 
 
 ## 🛠 Tech Stack
